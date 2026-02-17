@@ -1,7 +1,6 @@
 from pyrogram import Client
-from pyrogram.storage import MemoryStorage  # nahi chahiye actually
 import asyncio
-from pyrogram.storage import StringSession  # Yeh add karo
+
 
 API_ID = 25742938
 API_HASH = "b35b715fe8dc0a58e8048988286fc5b6"
