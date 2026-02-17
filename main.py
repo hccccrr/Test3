@@ -2,9 +2,9 @@ from pyrogram import Client
 import asyncio
 
 # Apni details yahan bharo
-API_ID = 123456          # my.telegram.org se lo
-API_HASH = "your_api_hash_here"   # my.telegram.org se lo
-SESSION_NAME = "my_account"
+API_ID = 25742938         # my.telegram.org se lo
+API_HASH = "b35b715fe8dc0a58e8048988286fc5b6"   # my.telegram.org se lo
+SESSION_NAME = "BQGIzloAJ9f3J2MBG4XVyJRIOyQU9yO0zxVK05EuYlpg4Mt6TuEiw4oBCWKbkifGtGKKWOIGsHWqW8EFan_YOxr_4f5GXoxY-2Gc2WVLoE4E929EwlSrE8rkyiLl2uej6uM_otDlbeJpWXW_efInfOaXe0G66fS2ZkxCa_SvBHylZ21lOL2o1pW8jj38ieGKVrXIx5vJ7QpyoAD7ccxM-NMU2OCMT3pFYyyxBr_xVOVwXHLNPJjDZEmvzE1RqN2MZTkmgCcdZA8M2TzooNsSrklkwwD1Tbk26qL0A-X7Bj1F-tm6sx3AKGs1OfWI_uiLLqSJA6OO662v18ej4IRUI8qN9vDofAAAAAHvH3v8AA"
 
 # Group ka username ya ID
 GROUP = "PBX_CHAT"  # e.g. "mygroupchat" ya -100xxxxxxxxxx
